@@ -10,7 +10,7 @@ from reportlab.pdfgen import canvas
 import textwrap
 import re
 
-load_dotenv()
+# load_dotenv()
 
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(page_title="GitHub README Generator", layout="wide")
